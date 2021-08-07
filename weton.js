@@ -159,17 +159,17 @@ $('#submit').on('click', function () {
                 Nama Kamu : <b>`+nama1+`</b><br/>
                 Tanggal Lahir : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
                 Pasaran : <b>`+layla[1]+ ` `+layla[2]+` </b>  <br/>
-                Neptu  : <b>`+layla[3]+` </b> <br/>
+                Neptu  : <b>`+layla[3]+` </b>
            
 <i class='separate'></i>    
             
                 Pasangan Kamu : <b>`+nama2+`</b><br/>
                 Tanggal Lahir : <b>`+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+` </b><br/>
                 Pasaran : <b> `+majnun[1]+ ` `+majnun[2]+` </b><br/>
-                Neptu  : <b> `+majnun[3]+`  </b><br/>
+                Neptu  : <b> `+majnun[3]+`  </b>
 </tbody>
 </div>
-  <div class='weton1'>Jadi <i>Neptu</i>  <b>`+layla[3]+`</b> dan <b>`+majnun[3]+`</b> <i>Wetonnya</i>  <b>`+total+`</b></div>    
+  <div class='weton1'>Jadi <i>Neptu</i> <mark style="background-color: pink">  <b>`+layla[3]+`</b></mark> dan <mark style="background-color: pink"><b>`+majnun[3]+`</b></mark> <i>Wetonnya</i>  <mark style="background-color: pink"><b>`+total+`</b></mark></div>    
                        
 <center><div class='note noteAlert'><font color='red'><b>`+final[0]+`  (`+total+`) </b></font></div></center>
                     <div class='note'>
