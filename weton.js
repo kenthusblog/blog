@@ -172,7 +172,7 @@ $('#submit').on('click', function () {
   <div class='weton1'>Jadi <i>Neptu</i> <mark style="background-color: pink">  <b>`+layla[3]+`</b></mark> dan <mark style="background-color: pink"><b>`+majnun[3]+`</b></mark> <i>Wetonnya</i>  <mark style="background-color: pink"><b>`+total+`</b></mark></div>    
                        
 <center><div class='note noteAlert'><font color='red'><b>`+final[0]+`  (`+total+`) </b></font></div></center>
-                    <div class='note'>
+<div class='note'>
 `+final[1]+`
 <div class='block-author'>
     <div class='block-img'>
@@ -186,8 +186,8 @@ $('#submit').on('click', function () {
     </span>
     </div>
   </div>
-</div>
-                </div>
+
+
             
                      `);
                      
