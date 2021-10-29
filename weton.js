@@ -169,9 +169,9 @@ $('#submit').on('click', function () {
                 Neptu  : <b> `+majnun[3]+`  </b>
 </tbody>
 </div>
-  <span class='promo'>Jadi <i>Neptu</i> kamu : <mark style="background-color: red">  <b>`+layla[3]+`</b></mark> dan neptu pasanganmu : <mark style="background-color: red"><b>`+majnun[3]+`</b></mark> <i>Wetonnya</i>   <mark style="background-color: red"><b>`+total+`</b></mark></span>    
+  <div class='promo'>Jadi <i>Neptu</i> kamu : <mark style="background-color: red">  <b>`+layla[3]+`</b></mark> dan neptu pasanganmu : <mark style="background-color: red"><b>`+majnun[3]+`</b></mark> <i>Wetonnya</i>   <mark style="background-color: red"><b>`+total+`</b></mark></div>    
                        
-<center><div class='note noteAlert'><font color='red'><b>`+final[0]+`  (`+total+`) </b></font></div></center>
+<center><div class='note noteAlert'><font color='red'><h4>`+final[0]+`  (`+total+`) </h4></font></div></center>
 <div class='note'>
 `+final[1]+`
 <div class='block-author'>
