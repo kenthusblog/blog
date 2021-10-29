@@ -169,7 +169,7 @@ $('#submit').on('click', function () {
                 Neptu  : <b> `+majnun[3]+`  </b>
 </tbody>
 </div>
-  <div class='weton1'>Jadi <i>Neptu</i> <mark style="background-color: pink">  <b>`+layla[3]+`</b></mark> dan <mark style="background-color: pink"><b>`+majnun[3]+`</b></mark> <i>Wetonnya</i>  <mark style="background-color: pink"><b>`+total+`</b></mark></div>    
+  <table>Jadi <i>Neptu</i> kamu : <mark style="background-color: red">  <b>`+layla[3]+`</b></mark> dan neptu pasanganmu : <mark style="background-color: red"><b>`+majnun[3]+`</b></mark> <i>Wetonnya</i>  <mark style="background-color: pink"><b>`+total+`</b></mark></table>    
                        
 <center><div class='note noteAlert'><font color='red'><b>`+final[0]+`  (`+total+`) </b></font></div></center>
 <div class='note'>
