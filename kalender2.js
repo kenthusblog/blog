@@ -80,7 +80,7 @@ var bulan = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Ag
 	function clearAll() {
 		for (var i = 0; i < 6; i++) {
 			for (var j = 0; j < 7; j++) {
-					document.querySelector(".tbl-hijr .row-"+ i +" .col-"+ j).style.background = "white";
+					document.querySelector(".tbl-hijr .row-"+ i +" .col-"+ j).style.background = "#ccc";
 					document.querySelector(".tbl-hijr .row-"+ i +" .col-"+ j + ' .m-date').textContent = '';
 					document.querySelector(".tbl-hijr .row-"+ i +" .col-"+ j + ' .h-date').textContent = '';
 			}
