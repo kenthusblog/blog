@@ -58,7 +58,7 @@ var bulan = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Ag
 					hDateEll = document.querySelector(".tbl-hijr .row-"+ row_tbl +" .col-"+ col_tbl + ' .h-date');
 					mDateEll.textContent = no_date;
 					hDateEll.textContent = hijriDate.day +' '+ pasarJava;
-					if (first_date.getFullYear() +'/'+ (first_date.getMonth() + 1) +'/'+ no_date == now.getFullYear() +'/'+ (now.getMonth() + 1) +'/'+ now.getDate()) {document.querySelector(".tbl-hijr .row-"+ row_tbl +" .col-"+ col_tbl ).style.background = '#eee88e' }
+					if (first_date.getFullYear() +'/'+ (first_date.getMonth() + 1) +'/'+ no_date == now.getFullYear() +'/'+ (now.getMonth() + 1) +'/'+ now.getDate()) {document.querySelector(".tbl-hijr .row-"+ row_tbl +" .col-"+ col_tbl ).style.background='#eee88e' .width:'100%' }
 				}
 				no_date++;
 				col_tbl++;
