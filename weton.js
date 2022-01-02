@@ -168,10 +168,10 @@ $('#submit').on('click', function () {
                 Pasaran       : <b> `+majnun[1]+ ` `+majnun[2]+` </b><br/>
                 Neptu         : <b> `+majnun[3]+`  </b>
 </tbody>
-</div>
+
   <div class='promo'>Jadi <i>Neptu</i> kamu :  <b>`+layla[3]+`</b> 
   dan neptu pasanganmu : <b>`+majnun[3]+`</b> , 
-  <i>Wetonnya</i> ketemu <b>`+total+`</b></div>    
+  <i>Wetonnya</i> ketemu <b>`+total+`</b></div> </div>   
                        
 <center><div class='note noteAlert'><h4>`+final[0]+`  (`+total+`) </h4></div></center>
 <div class='note'>
