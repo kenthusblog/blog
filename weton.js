@@ -174,7 +174,7 @@ $('#submit').on('click', function () {
   dan neptu pasanganmu : <b>`+majnun[3]+`</b> , 
   <i>Wetonnya</i> ketemu <b>`+total+`</b></div> </div>   
                        
-<center><div class='noteAlert'><b>`+final[0]+`  (`+total+`) </b></div></center>
+<center><div class='note wr'><b>`+final[0]+`  (`+total+`) </b></div></center>
 <div class='note'>
 `+final[1]+`
 <div class='block-author'>
