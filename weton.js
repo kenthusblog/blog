@@ -158,15 +158,15 @@ $('#submit').on('click', function () {
     <tbody>
                 Nama Kamu&nbsp; &nbsp; &nbsp;: <b>`+nama1+`</b><br/>
                 Tanggal Lahir : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
-                Pasaran&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: <b>`+layla[1]+ ` `+layla[2]+` </b>  <br/>
-                Neptu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: <b>`+layla[3]+` </b>
+                Pasaran&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: <b>`+layla[1]+ ` `+layla[2]+` </b>  <br/>
+                Neptu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : <b>`+layla[3]+` </b>
            
 <i class='separate'></i>    
             
                 Pasangan Kamu : <b>`+nama2+`</b><br/>
                 Tanggal Lahir&nbsp; &nbsp; &nbsp;: <b>`+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+` </b><br/>
-                Pasaran&nbsp; &nbsp; &nbsp; &nbsp;: <b> `+majnun[1]+ ` `+majnun[2]+` </b><br/>
-                Neptu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: <b> `+majnun[3]+`  </b>
+                Pasaran&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : <b> `+majnun[1]+ ` `+majnun[2]+` </b><br/>
+                Neptu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : <b> `+majnun[3]+`  </b>
 </tbody>
  
  <hr>
