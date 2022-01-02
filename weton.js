@@ -165,8 +165,8 @@ $('#submit').on('click', function () {
             
                 Pasangan Kamu : <b>`+nama2+`</b><br/>
                 Tanggal Lahir&nbsp; &nbsp; &nbsp;: <b>`+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+` </b><br/>
-                Pasaran&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : <b> `+majnun[1]+ ` `+majnun[2]+` </b><br/>
-                Neptu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : <b> `+majnun[3]+`  </b>
+                Pasaran&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  : <b> `+majnun[1]+ ` `+majnun[2]+` </b><br/>
+                Neptu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : <b> `+majnun[3]+`  </b>
 </tbody>
  
  <hr>
