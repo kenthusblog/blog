@@ -156,22 +156,24 @@ $('#submit').on('click', function () {
     
 <div class='weton'>
     <tbody>
-                Nama Kamu : <b>`+nama1+`</b><br/>
+                Nama Kamu     : <b>`+nama1+`</b><br/>
                 Tanggal Lahir : <b>`+layla[0][0]+` `+layla[0][1]+` `+layla[0][2]+` </b><br/>
-                Pasaran : <b>`+layla[1]+ ` `+layla[2]+` </b>  <br/>
-                Neptu  : <b>`+layla[3]+` </b>
+                Pasaran       : <b>`+layla[1]+ ` `+layla[2]+` </b>  <br/>
+                Neptu         : <b>`+layla[3]+` </b>
            
 <i class='separate'></i>    
             
                 Pasangan Kamu : <b>`+nama2+`</b><br/>
                 Tanggal Lahir : <b>`+majnun[0][0]+` `+majnun[0][1]+` `+majnun[0][2]+` </b><br/>
-                Pasaran : <b> `+majnun[1]+ ` `+majnun[2]+` </b><br/>
-                Neptu  : <b> `+majnun[3]+`  </b>
+                Pasaran       : <b> `+majnun[1]+ ` `+majnun[2]+` </b><br/>
+                Neptu         : <b> `+majnun[3]+`  </b>
 </tbody>
 </div>
-  <div class='promo'>Jadi <i>Neptu</i> kamu : <mark style="background-color: red">  <b>`+layla[3]+`</b></mark> dan neptu pasanganmu : <mark style="background-color: red"><b>`+majnun[3]+`</b></mark> <i>Wetonnya</i>   <mark style="background-color: red"><b>`+total+`</b></mark></div>    
+  <div class='promo'>Jadi <i>Neptu</i> kamu :  <b>`+layla[3]+`</b> 
+  dan neptu pasanganmu : <b>`+majnun[3]+`</b> , 
+  <i>Wetonnya</i> ketemu <b>`+total+`</b></div>    
                        
-<center><div class='note noteAlert'><font color='red'><h4>`+final[0]+`  (`+total+`) </h4></font></div></center>
+<center><div class='note noteAlert'><h4>`+final[0]+`  (`+total+`) </h4></div></center>
 <div class='note'>
 `+final[1]+`
 <div class='block-author'>
